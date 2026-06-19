@@ -15,14 +15,14 @@ It integrates with the [JSONPlaceholder API](https://jsonplaceholder.typicode.co
 | **Create a New Post** | Form with full validation, author dropdown, success toast, and server-error banner |
 
 ### Key Features
-- 📋 **Post List** with live search and per-author filtering
-- 📄 **Pagination** — 10 posts per page with first / prev / page-numbers / next / last controls
-- ✍️ **Create Post** form powered by React Hook Form + Zod validation
-- 🔴 **Inline validation errors** shown on all required fields
-- 🟢 **Success toast** (bottom-right) on successful post creation
-- 🔴 **Server error banner** on API failure
-- 🏔️ **Snowy mountain background** matching the Figma design
-- 📱 **Responsive** layout that works on mobile and desktop
+-  **Post List** with live search and per-author filtering
+-  **Pagination** — 10 posts per page with first / prev / page-numbers / next / last controls
+-  **Create Post** form powered by React Hook Form + Zod validation
+-  **Inline validation errors** shown on all required fields
+-  **Success toast** (bottom-right) on successful post creation
+-  **Server error banner** on API failure
+-  **Snowy mountain background** matching the Figma design
+-  **Responsive** layout that works on mobile and desktop
 
 ---
 
